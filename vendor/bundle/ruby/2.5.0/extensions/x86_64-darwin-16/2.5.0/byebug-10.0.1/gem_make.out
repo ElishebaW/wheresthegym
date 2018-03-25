@@ -1,0 +1,19 @@
+current directory: /Users/elishebawiggins/Projects/wheresthegym/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.1/ext/byebug
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20180324-21096-1v7ryaa.rb extconf.rb
+creating Makefile
+
+current directory: /Users/elishebawiggins/Projects/wheresthegym/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/elishebawiggins/Projects/wheresthegym/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/elishebawiggins/Projects/wheresthegym/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20180324-21096-tntnc8/byebug
