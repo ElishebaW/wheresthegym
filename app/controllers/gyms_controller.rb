@@ -3,6 +3,7 @@ class GymsController < ApplicationController
   end
 
   def new
+    @gyms = Gym.new
   end
 
   def show
